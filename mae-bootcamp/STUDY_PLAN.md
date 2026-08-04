@@ -21,7 +21,7 @@ The MAE Programme emphasizes the impact of modern automation technologies on cur
 
 | Category | Units | Notes |
 |---|---|---|
-| Faculty Package | 9 | University-wide engineering foundation |
+| **Faculty Package** | **9** | ENGG1110, ENGG1120, ENGG1130, MATH1510, PHYS1110 |
 | Foundation Courses | 13 | Math, physics, computational design |
 | Major Required Courses | 33 | Core mechanical/automation knowledge |
 | Research Component | 6 | FYP I + II |
@@ -30,7 +30,25 @@ The MAE Programme emphasizes the impact of modern automation technologies on cur
 
 ---
 
-## Year 1 — Foundation (Semesters 1 & 2)
+## Year 1 — Faculty Package (Semesters 1 & 2)
+
+**Focus:** Programming, linear algebra, calculus, physics — the universal engineering toolkit
+
+| Semester | Course | Title | 袁騰飛格式 |
+|---|---|---|---|
+| 1 | ENGG1110 | Problem Solving By Programming | ✅ |
+| 1 | ENGG1120 | Linear Algebra for Engineers | ✅ |
+| 1 | MATH1510 | Calculus for Engineers | ✅ |
+| 2 | ENGG1130 | Multivariable Calculus for Engineers | ✅ |
+| 2 | PHYS1110 | Engineering Physics: Mechanics & Thermo | ✅ |
+
+All 5 Faculty Package courses now have full 袁騰飛 research-based content. See `courses/faculty-package/`.
+
+**Projects:** Arduino LED sequence → Python kinematics → CAD first part
+
+---
+
+## Year 2 — Foundation + Core Mechanics
 
 **Focus:** Math, physics, programming, first mechanism intuition
 

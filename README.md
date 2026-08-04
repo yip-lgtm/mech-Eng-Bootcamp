@@ -7,12 +7,13 @@
 
 ## 📚 自學課程
 
-- [mae-cuhk/](./mae-cuhk/) — CUHK BEng Mechanical & Automation Engineering curriculum
-  - [STUDY_PLAN.md](mae-cuhk/STUDY_PLAN.md) — Year 1-4 自學路徑
-  - [courses/COURSE_INDEX.md](mae-cuhk/courses/COURSE_INDEX.md) — 59 courses 總索引
-  - [courses/electives/](mae-cuhk/courses/electives/) — 43 major electives (5 streams)
-  - [courses/major-required/](mae-cuhk/courses/major-required/) — 13 major required courses
-  - [courses/foundation/](mae-cuhk/courses/foundation/) — foundation courses
+- [mae-bootcamp/](mae-bootcamp/) — CUHK BEng Mechanical & Automation Engineering curriculum
+  - [STUDY_PLAN.md](mae-bootcamp/STUDY_PLAN.md) — Year 1-4 自學路徑
+  - [courses/COURSE_INDEX.md](mae-bootcamp/courses/COURSE_INDEX.md) — 64 courses 總索引
+  - [courses/faculty-package/](mae-bootcamp/courses/faculty-package/) — 5 Faculty Package courses (ENGG1110/1120/1130, MATH1510, PHYS1110)
+  - [courses/electives/](mae-bootcamp/courses/electives/) — 43 major electives (5 streams)
+  - [courses/major-required/](mae-bootcamp/courses/major-required/) — 13 major required courses
+  - [courses/foundation/](mae-bootcamp/courses/foundation/) — foundation courses
 
 ## 🚀 Demos
 

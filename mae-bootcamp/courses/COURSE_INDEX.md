@@ -1,4 +1,4 @@
-# CUHK MAE — Course Index (59 Courses)
+# CUHK MAE — Course Index (64 Courses)
 
 **Last Updated:** 2026-08 | All courses in 袁騰飛 5MM/3DG/10Q/5DD/10SL/5MR format
 
@@ -6,6 +6,7 @@
 
 ## How to Use This Index
 
+- **Faculty Package** (5 courses) → `faculty-package/` 🆕
 - **Foundation** (1 course) → `foundation/`
 - **Major Required** (13 courses) → `major-required/`
 - **Major Electives** (43 courses) → `electives/`
@@ -14,6 +15,16 @@
 Each elective is tagged by stream: 🤖 Robotics | 🔧 Design | ⚡ Energy | 💻 Software | 📊 Business
 
 ---
+
+## Faculty Package (Year 1 — 🆕 5 courses complete)
+
+| Code | Title | Lines | File |
+|---|---|---|---|
+| ENGG1110 | Problem Solving By Programming | 400+ | `faculty-package/ENGG1110.md` |
+| ENGG1120 | Linear Algebra for Engineers | 450+ | `faculty-package/ENGG1120.md` |
+| ENGG1130 | Multivariable Calculus for Engineers | 420+ | `faculty-package/ENGG1130.md` |
+| MATH1510 | Calculus for Engineers | 400+ | `faculty-package/MATH1510.md` |
+| PHYS1110 | Engineering Physics: Mechanics & Thermo | 430+ | `faculty-package/PHYS1110.md` |
 
 ## Foundation
 
