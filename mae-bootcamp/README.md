@@ -1,6 +1,6 @@
 # CUHK BEng Mechanical & Automation Engineering — mae-bootcamp
 
-> 64 courses in 袁騰飛 format | 中英對照 | 中大工程自學
+> 64 courses in research-based format | 中英對照 | 中大工程自學
 
 ## 📚 Course Index
 
@@ -17,7 +17,7 @@
 
 ## 📂 Course Format
 
-所有 course files 採用 **袁騰飛格式** (5MM/3DG/10Q/5DD/10SL/5MR)
+所有 course files 採用 **Deep Study Format (5MM/3DG/10Q/5DD/10SL/5MR)** (5MM/3DG/10Q/5DD/10SL/5MR)
 
 ## 🗂️ Other Files
 

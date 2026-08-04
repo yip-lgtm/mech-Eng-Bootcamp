@@ -31,9 +31,9 @@
 
 [24_Week_Weekend_Bootcamp/](mae-bootcamp/other/24_Week_Weekend_Bootcamp/) — Phase 1-4 curriculum + builds
 
-## 📂 課程格式 — 袁騰飛格式 (5MM / 3DG / 10Q / 5DD / 10SL / 5MR)
+## 📂 課程格式 — Deep Study Format (5MM/3DG/10Q/5DD/10SL/5MR)
 
-每一個 course file 都係用 **袁騰飛格式** 寫成，呢個格式係由袁騰飛老師嘅教學風格啟發 — 用紮實嘅研究材料 + 嚴密嘅邏輯結構，取代一般嘅 template 填空。
+每一個 course file 都係用 **Deep Study Format (5MM/3DG/10Q/5DD/10SL/5MR)** 寫成 — 用紮實嘅研究材料 + 嚴密嘅邏輯結構，取代一般嘅 template 填空。
 
 ### 🧱 結構組成
 

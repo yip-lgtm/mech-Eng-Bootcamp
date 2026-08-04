@@ -1,6 +1,6 @@
 # CUHK MAE — Course Index (64 Courses)
 
-**Last Updated:** 2026-08 | All courses in 袁騰飛 5MM/3DG/10Q/5DD/10SL/5MR format
+**Last Updated:** 2026-08 | All courses in research-based 5MM/3DG/10Q/5DD/10SL/5MR format
 
 ---
 
@@ -147,7 +147,7 @@ Each elective is tagged by stream: 🤖 Robotics | 🔧 Design | ⚡ Energy | �
 
 ## Course Format Standard
 
-Every course file follows the 袁騰飛 research-based format:
+Every course file follows the research-based format:
 
 ```
 5MM  — 5 Core Mental Models (方程式 + 數字 + 學者)

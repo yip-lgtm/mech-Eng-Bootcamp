@@ -34,7 +34,7 @@ The MAE Programme emphasizes the impact of modern automation technologies on cur
 
 **Focus:** Programming, linear algebra, calculus, physics — the universal engineering toolkit
 
-| Semester | Course | Title | 袁騰飛格式 |
+| Semester | Course | Title | Deep Study Format (5MM/3DG/10Q/5DD/10SL/5MR) |
 |---|---|---|---|
 | 1 | ENGG1110 | Problem Solving By Programming | ✅ |
 | 1 | ENGG1120 | Linear Algebra for Engineers | ✅ |
@@ -42,7 +42,7 @@ The MAE Programme emphasizes the impact of modern automation technologies on cur
 | 2 | ENGG1130 | Multivariable Calculus for Engineers | ✅ |
 | 2 | PHYS1110 | Engineering Physics: Mechanics & Thermo | ✅ |
 
-All 5 Faculty Package courses now have full 袁騰飛 research-based content. See `courses/faculty-package/`.
+All 5 Faculty Package courses now have full research-based content. See `courses/faculty-package/`.
 
 **Projects:** Arduino LED sequence → Python kinematics → CAD first part
 
