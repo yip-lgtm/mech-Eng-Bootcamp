@@ -1,7 +1,6 @@
 # mech Eng. Bootcamp 🤖
 
 > Mechanical Engineering Self-Study Bootcamp — CUHK BEng MAE + Real-World Projects
-> 香港機械工程自學 bootcamp | 中英對照
 
 ---
 
@@ -17,20 +16,20 @@
 
 ## 🚀 Demos
 
-- [Week 1 Gary 倉庫機械人 Demo](./demos/index.html)
-- [demos/snapshots/](demos/snapshots/) — state machine screenshots
+[Week 1 Gary 倉庫機械人 Demo](mae-bootcamp/other/demos/)
+- `demos/snapshots/` — state machine screenshots
 
 ## 📅 每週計劃
 
-- [week-plans/](week-plans/)
+[week-plans/](mae-bootcamp/other/week-plans/)
 
 ## 📖 Subject Notes
 
-- [subjects/](subjects/) — 每科深度筆記 (robotics, control, AI, etc.)
+[subjects/](mae-bootcamp/other/subjects/) — 每科深度筆記 (robotics, control, AI, etc.)
 
 ## 🏗️ 24-Week Weekend Bootcamp
 
-- [24_Week_Weekend_Bootcamp/](24_Week_Weekend_Bootcamp/) — Phase 1-4 curriculum + builds
+[24_Week_Weekend_Bootcamp/](mae-bootcamp/other/24_Week_Weekend_Bootcamp/) — Phase 1-4 curriculum + builds
 
 ## 📂 課程格式
 
@@ -38,15 +37,13 @@
 
 | Element | 內容 |
 |---|---|
-| **5MM** | 5 個核心心智模型 (方程式 + 數字 + 學者) |
-| **3DG** | 3 個根本分歧 (A/B 方 + 引用) |
-| **10Q** | 10 個深度問題 |
-| **5DD** | 5 個深度 dive (中英對照) |
-| **10SL** | 10 個 solution |
-| **5MR** | 5 個 Mermaid 圖 |
-
----
+| 5MM | 5 個核心心智模型 (方程式 + 數字 + 學者) |
+| 3DG | 3 個根本分歧 (A/B 方 + 引用) |
+| 10Q | 10 個深度問題 |
+| 5DD | 5 個深度 dive (中英對照) |
+| 10SL | 10 個 solution |
+| 5MR | 5 個 Mermaid 圖 |
 
 ## 📊 Progress
 
-- [progress/Bootcamp_Progress.md](progress/Bootcamp_Progress.md)
+[progress/Bootcamp_Progress.md](mae-bootcamp/other/progress/Bootcamp_Progress.md)
