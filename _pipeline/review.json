@@ -1,0 +1,1766 @@
+[
+  {
+    "file": "./mae-bootcamp/courses/electives/BMEG3420.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 840
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/CSCI1020.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 770
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/DOTE1030.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 752
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/EEEN2020.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 801
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/EEEN4010.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 734
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/EEEN4020.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 753
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/EEEN4030.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 689
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/EEEN4050.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 755
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/EEEN4060.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 672
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/ENGG1820.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 775
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/ENGG5402.md",
+    "score": 101,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 1,
+      "G10_no_template": 5
+    },
+    "lines": 538
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/ENGG5403.md",
+    "score": 101,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 1,
+      "G10_no_template": 5
+    },
+    "lines": 517
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/ENGG5404.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 926
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/ENGG5405.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 897
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MAEG1010.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 911
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MAEG2050.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 960
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MAEG3060.md",
+    "score": 101,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 1,
+      "G10_no_template": 5
+    },
+    "lines": 544
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MAEG3070.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 903
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MAEG3080.md",
+    "score": 100,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 482
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MAEG3920.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 823
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MAEG4010.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 915
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MAEG4020.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 905
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MAEG4050.md",
+    "score": 100,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 476
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MAEG4060.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 905
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MAEG4070.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 929
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MAEG4080.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 773
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MAEG5030.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 822
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MAEG5060.md",
+    "score": 101,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 1,
+      "G10_no_template": 5
+    },
+    "lines": 525
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MAEG5070.md",
+    "score": 101,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 1,
+      "G10_no_template": 5
+    },
+    "lines": 624
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MAEG5080.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 696
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MAEG5090.md",
+    "score": 101,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 1,
+      "G10_no_template": 5
+    },
+    "lines": 528
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MAEG5110.md",
+    "score": 101,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 1,
+      "G10_no_template": 5
+    },
+    "lines": 530
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MAEG5120.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 733
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MAEG5130.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 710
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MAEG5140.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 392
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MAEG5150.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 828
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MAEG5160.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 728
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MGNT1010.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 785
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/MGNT4090.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 867
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/SEEM2440.md",
+    "score": 88,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 12,
+      "G3_citations": 4,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 7,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 573
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/SEEM3450.md",
+    "score": 85,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 9,
+      "G3_citations": 4,
+      "G4_specificity": 12,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 523
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/SEEM3490.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 874
+  },
+  {
+    "file": "./mae-bootcamp/courses/electives/SEEM3500.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 730
+  },
+  {
+    "file": "./mae-bootcamp/courses/faculty-package/ENGG1110.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 657
+  },
+  {
+    "file": "./mae-bootcamp/courses/faculty-package/ENGG1120.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 638
+  },
+  {
+    "file": "./mae-bootcamp/courses/faculty-package/ENGG1130.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 619
+  },
+  {
+    "file": "./mae-bootcamp/courses/faculty-package/MATH1510.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 607
+  },
+  {
+    "file": "./mae-bootcamp/courses/faculty-package/PHYS1110.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 658
+  },
+  {
+    "file": "./mae-bootcamp/courses/foundation/MAEG1020.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 382
+  },
+  {
+    "file": "./mae-bootcamp/courses/major-required/EEEN3030.md",
+    "score": 101,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 1,
+      "G10_no_template": 5
+    },
+    "lines": 539
+  },
+  {
+    "file": "./mae-bootcamp/courses/major-required/ELEG2202.md",
+    "score": 101,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 1,
+      "G10_no_template": 5
+    },
+    "lines": 541
+  },
+  {
+    "file": "./mae-bootcamp/courses/major-required/ENGG2020.md",
+    "score": 105,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 909
+  },
+  {
+    "file": "./mae-bootcamp/courses/major-required/MAEG2020.md",
+    "score": 86,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 12,
+      "G3_citations": 4,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 5,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 505
+  },
+  {
+    "file": "./mae-bootcamp/courses/major-required/MAEG2030.md",
+    "score": 103,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 3,
+      "G10_no_template": 5
+    },
+    "lines": 683
+  },
+  {
+    "file": "./mae-bootcamp/courses/major-required/MAEG2601.md",
+    "score": 103,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 3,
+      "G10_no_template": 5
+    },
+    "lines": 734
+  },
+  {
+    "file": "./mae-bootcamp/courses/major-required/MAEG3010.md",
+    "score": 101,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 1,
+      "G10_no_template": 5
+    },
+    "lines": 654
+  },
+  {
+    "file": "./mae-bootcamp/courses/major-required/MAEG3020.md",
+    "score": 103,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 3,
+      "G10_no_template": 5
+    },
+    "lines": 648
+  },
+  {
+    "file": "./mae-bootcamp/courses/major-required/MAEG3030.md",
+    "score": 101,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 1,
+      "G10_no_template": 5
+    },
+    "lines": 556
+  },
+  {
+    "file": "./mae-bootcamp/courses/major-required/MAEG3040.md",
+    "score": 101,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 1,
+      "G10_no_template": 5
+    },
+    "lines": 560
+  },
+  {
+    "file": "./mae-bootcamp/courses/major-required/MAEG3050.md",
+    "score": 101,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 1,
+      "G10_no_template": 5
+    },
+    "lines": 577
+  },
+  {
+    "file": "./mae-bootcamp/courses/major-required/MAEG4030.md",
+    "score": 101,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 1,
+      "G10_no_template": 5
+    },
+    "lines": 539
+  },
+  {
+    "file": "./mae-bootcamp/courses/major-required/MAEG4040.md",
+    "score": 101,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 1,
+      "G10_no_template": 5
+    },
+    "lines": 565
+  },
+  {
+    "file": "./mae-bootcamp/courses/research/MAEG4998.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 389
+  },
+  {
+    "file": "./mae-bootcamp/courses/research/MAEG4999.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 387
+  },
+  {
+    "file": "./mae-bootcamp/other/24_Week_Weekend_Bootcamp/COURSE_STRUCTURE.md",
+    "score": 97,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 440
+  },
+  {
+    "file": "./mae-bootcamp/other/24_Week_Weekend_Bootcamp/Week_1_Kickoff.md",
+    "score": 100,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 544
+  },
+  {
+    "file": "./mae-bootcamp/other/24_Week_Weekend_Bootcamp/Week_3_Soft_Robotics_Notes.md",
+    "score": 102,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 1298
+  },
+  {
+    "file": "./mae-bootcamp/other/24_Week_Weekend_Bootcamp/builds/soft_gripper/docs/BUILD_PLAN.md",
+    "score": 97,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 695
+  },
+  {
+    "file": "./mae-bootcamp/other/24_Week_Weekend_Bootcamp/builds/soft_gripper/docs/HK_SOURCING.md",
+    "score": 95,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 3,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 5,
+      "G10_no_template": 5
+    },
+    "lines": 574
+  },
+  {
+    "file": "./mae-bootcamp/other/24_Week_Weekend_Bootcamp/builds/soft_gripper/tests/TEST_PROCEDURE.md",
+    "score": 97,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 781
+  },
+  {
+    "file": "./mae-bootcamp/other/24_Week_Weekend_Bootcamp/progress.md",
+    "score": 97,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 426
+  },
+  {
+    "file": "./mae-bootcamp/other/24_Week_Weekend_Bootcamp/skill/CRON_SETUP.md",
+    "score": 100,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 3,
+      "G10_no_template": 5
+    },
+    "lines": 466
+  },
+  {
+    "file": "./mae-bootcamp/other/24_Week_Weekend_Bootcamp/skill/bootcamp_log.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 395
+  },
+  {
+    "file": "./mae-bootcamp/other/24_Week_Weekend_Bootcamp/skill/bootcamp_sunday_summary.md",
+    "score": 97,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 421
+  },
+  {
+    "file": "./mae-bootcamp/other/24_Week_Weekend_Bootcamp/skill/bootcamp_weekly.md",
+    "score": 97,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 416
+  },
+  {
+    "file": "./mae-bootcamp/other/HEARTBEAT.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 358
+  },
+  {
+    "file": "./mae-bootcamp/other/IDENTITY.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 372
+  },
+  {
+    "file": "./mae-bootcamp/other/SOUL.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 385
+  },
+  {
+    "file": "./mae-bootcamp/other/TOOLS.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 389
+  },
+  {
+    "file": "./mae-bootcamp/other/USER.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 366
+  },
+  {
+    "file": "./mae-bootcamp/other/memory/2026-05-15.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 399
+  },
+  {
+    "file": "./mae-bootcamp/other/memory/2026-05-19.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 380
+  },
+  {
+    "file": "./mae-bootcamp/other/memory/2026-06-07.md",
+    "score": 100,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 438
+  },
+  {
+    "file": "./mae-bootcamp/other/progress/Bootcamp_Progress.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 385
+  },
+  {
+    "file": "./mae-bootcamp/other/subjects/01_embodied-robot-intelligence.md",
+    "score": 100,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 3,
+      "G10_no_template": 5
+    },
+    "lines": 391
+  },
+  {
+    "file": "./mae-bootcamp/other/subjects/02_principles-robotic-mechanisms.md",
+    "score": 103,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 10,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 10,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 3,
+      "G10_no_template": 5
+    },
+    "lines": 751
+  },
+  {
+    "file": "./mae-bootcamp/other/subjects/03_robot-motion-planning.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 373
+  },
+  {
+    "file": "./mae-bootcamp/other/subjects/04_soft-robotics.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 372
+  },
+  {
+    "file": "./mae-bootcamp/other/subjects/05_advanced-control-technology.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 372
+  },
+  {
+    "file": "./mae-bootcamp/other/subjects/06_advanced-product-mechatronics.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 372
+  },
+  {
+    "file": "./mae-bootcamp/other/subjects/07_computer-aided-product-analysis.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 372
+  },
+  {
+    "file": "./mae-bootcamp/other/subjects/08_advanced-materials-structural-design.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 372
+  },
+  {
+    "file": "./mae-bootcamp/other/subjects/09_project-product-design-management.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 372
+  },
+  {
+    "file": "./mae-bootcamp/other/subjects/10_autonomous-vehicles.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 372
+  },
+  {
+    "file": "./mae-bootcamp/other/subjects/11_computer-vision-image-processing.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 372
+  },
+  {
+    "file": "./mae-bootcamp/other/subjects/12_advanced-artificial-intelligence.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 372
+  },
+  {
+    "file": "./mae-bootcamp/other/subjects/13_industrial-human-robot-systems-automation.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 372
+  },
+  {
+    "file": "./mae-bootcamp/other/week-plans/week1.md",
+    "score": 94,
+    "decision": "APPROVED",
+    "gates": {
+      "G1_length": 7,
+      "G2_format": 15,
+      "G3_citations": 15,
+      "G4_specificity": 15,
+      "G5_bilingual": 7,
+      "G6_no_placeholder": 10,
+      "G7_mermaid": 10,
+      "G8_solutions": 10,
+      "G9_deep_dives": 0,
+      "G10_no_template": 5
+    },
+    "lines": 374
+  }
+]
