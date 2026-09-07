@@ -11,4 +11,4 @@
 | **10SL** | 10 | 有已知數的 worked example；至少 2 題附可跑 Python |
 | **5MR** | 5 | Mermaid：flowchart / stateDiagram-v2 / sequenceDiagram / graph |
 
-精讀：`001–004`、`127`、`129`。
+149 項已全部按此格式生成。`003_簡單機械` 為加密度金標。
