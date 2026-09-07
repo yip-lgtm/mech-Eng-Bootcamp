@@ -7,8 +7,10 @@
 | **5MM** | 5 | 心智模型 + 方程式 + 數量級數字 + 學者／來源 |
 | **3DG** | 3 | A/B 雙方最強論點 + 可查文獻 |
 | **10Q** | 10 | 由定義 → 計算 → 失效 → 遷移到 3R/gripper |
-| **5DD** | 5 | 中英各一段，講幾何／能量／約束 |
+| **5DD** | 5 | 中英各一段，講幾何／能量／約束，不重複 5MM 標題 |
 | **10SL** | 10 | 有已知數的 worked example；至少 2 題附可跑 Python |
-| **5MR** | 5 | Mermaid：flowchart / stateDiagram-v2 / sequenceDiagram / graph |
+| **5MR** | 5 | Mermaid：`flowchart` / `stateDiagram-v2` / `sequenceDiagram` / `graph` |
 
-149 項已全部按此格式生成。`003_簡單機械` 為加密度金標。
+優先精讀（已寫滿格式）：`001–004`、`127 產業用機械手臂`、`129 AGV`。
+其餘項目按同一骨架生成，讀到哪項再升級為精讀。
+圖解 149/149 已齊（本機 `\u5716\u89e3/`）。
